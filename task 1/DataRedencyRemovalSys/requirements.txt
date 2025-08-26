@@ -1,0 +1,8 @@
+# Data Redundancy Removal System Dependencies
+SQLAlchemy==2.0.23
+python-Levenshtein==0.25.0
+python-dotenv==1.0.0
+pandas==2.0.3
+numpy==1.24.3
+psycopg2-binary==2.9.7  # For PostgreSQL compatibility
+tqdm==4.66.1  # Progress bars for batch processing
